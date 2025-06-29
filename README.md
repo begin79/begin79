@@ -56,11 +56,5 @@
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=begin79&theme=github_dark" alt=""/>
 </div>
 
-## 📫 Связаться со мной
-
-- Telegram: [@hacker020106](https://t.me/hacker020106)
-- Email: hacker020106@gmail.com
-- GitHub: [github.com/begin79](https://github.com/begin79)
-
 
 <h4 align="center">⚡ Я только начинаю свой путь, но уже стараюсь делать качественно и с интересом. Буду рад советам, идеям и новым задачам!</h4>
